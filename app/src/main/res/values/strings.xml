@@ -4,4 +4,7 @@
     <string name="senha">Senha</string>
     <string name="login">login</string>
     <string name="mensagem_erro">ERRRRRRRRRROOOOOOU</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_cadastrar">CadastrarActivity</string>
+    <string name="TitleCadastrar">TitleCadastrar</string>
 </resources>
